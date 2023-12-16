@@ -52,14 +52,7 @@ type Live interface {
 	walk()
 }
 
-func main() {
-	fmt.Println("hello world")
 
-	m := Man{}
-	m.walk()
-	m.People.walk()
-
-}
 
 /**
 Go Modules
