@@ -1,7 +1,5 @@
 package a01
 
-import "fmt"
-
 type People struct {
 	name  string
 	title string
